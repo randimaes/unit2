@@ -1,8 +1,16 @@
-    //initilize map and set center of map with coordinates
-    var map= L.map('mapid', {
-        center: [20, 0],
-        zoom: 2
-    });
+//initilize map and set center of map with coordinates
+var map= L.map('mapid', {
+    center: [20, 0],
+    zoom: 2
+});
+
+
+//adding tileset layer
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+}).addTo(map);
+
 
 
 
@@ -10,9 +18,8 @@
 //declare map var in global scope
 //function to instantiate Leaflet map
 function createMap(){
-
     //add OSM base tilelayer
-    L.tileLayer('https://api.mapbox.com/styles/v1/randimaes/cla2pcahc000h15m3fortplk0/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoicmFuZGltYWVzIiwiYSI6ImNsYTJveDBuMzBqOTkzcG1oZ3dyNXE5ZjEifQ.KopBuoAxGQO2d1NO_sNSOA', {
+    L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>'
     }).addTo(map);
 
@@ -37,25 +44,15 @@ function onEachFeature(feature, layer) {
 //function to retrieve the data and place it on the map
 function getData(){
     //load the data
-    fetch("data/musicdata.geojson")
+    fetch("data/map.geojson")
         .then(function(response){
             return response.json();
         })
         .then(function(json){
-            var geojsonMarkerOptions = {
-                radius: 18,
-                fillColor: "#ff7800",
-                color: "#000",
-                weight: 1,
-                opacity: 1,
-                fillOpacity: 0.8
-            };
+            
             //create a Leaflet GeoJSON layer and add it to the map
             L.geoJson(json, {
-                onEachFeature:onEachFeature,
-                pointToLayer: function (feature, latlng){
-                    return L.circleMarker(latlng, geojsonMarkerOptions);
-                }
+                onEachFeature:onEachFeature
             }).addTo(map);
             
         })
