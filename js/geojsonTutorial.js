@@ -1,7 +1,7 @@
 // Add all scripts to the JS folder
 //initilize map and set center of map with coordinates
 var map = L.map('mapid', {
-    center: [-104.9903, 39.7392],
+    center: [39.7392, -104.9903],
     zoom: 13
 });
 //.setView([-104.9903, 39.7392],13 );
@@ -26,7 +26,7 @@ var geojsonFeature = {
 };
 
 //creating geoJSON layer to be added to map 
-L.geoJSON(geojsonFeature).addTo(map);
+//L.geoJSON(geojsonFeature).addTo(map);
 //object creation 
 var myLines = [{
     "type": "LineString",
@@ -105,10 +105,12 @@ var geojsonMarkerOptions = {
     fillOpacity: 0.8
 };
 
-L.geoJSON(someGeojsonFeature, {
+L.geoJSON(geojsonFeature, {
     pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, geojsonMarkerOptions);
-    }
+    },
+    onEachFeature: onEachFeature
+
 }).addTo(map);
 
 //onEachFeature example... 
@@ -120,20 +122,9 @@ function onEachFeature(feature, layer) {
     }
 }
 
-var geojsonFeature = {
-    "type": "Feature",
-    "properties": {
-        "name": "Coors Field",
-        "amenity": "Baseball Stadium",
-        "popupContent": "This is where the Rockies play!"
-    },
-    "geometry": {
-        "type": "Point",
-        "coordinates": [-104.99404, 39.75621]
-    }
-};
 
-L.geoJSON(geojsonFeature, {
+
+L.geoJson(geojsonFeature, {
     onEachFeature: onEachFeature
 }).addTo(map);
 

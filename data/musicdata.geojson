@@ -1,1 +1,335 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"City":"US","Retail_2017":5916.1,"Retail_2016":5318.2,"Retail_2015":4997.3,"Retail_2014":4898.3,"Retail_2013":4473.5,"Retail_2012":4481.8,"Retail_2011":4372.9,"Retail_2010":3635.2,"Retail_2009":4562,"Retail_2008":5977.4,"Retail_2007":7985.6,"Retail_2006":9651.4,"Retail_2005":11195,"Retail_2004":12153.4,"Retail_2003":11847.9},"geometry":{"type":"Point","coordinates":[-95.7129,37.0902]}},{"type":"Feature","properties":{"City":"Japan","Retail_2017":2727.5,"Retail_2016":2745.9,"Retail_2015":2446.7,"Retail_2014":2627.9,"Retail_2013":3012,"Retail_2012":4422,"Retail_2011":4087.7,"Retail_2010":4096.9,"Retail_2009":4244.5,"Retail_2008":5171.1,"Retail_2007":4174.5,"Retail_2006":4495.2,"Retail_2005":4883.5,"Retail_2004":5167.8,"Retail_2003":4909.7},"geometry":{"type":"Point","coordinates":[138.2529,36.2048]}},{"type":"Feature","properties":{"City":"Germany","Retail_2017":1323.1,"Retail_2016":1212,"Retail_2015":1309.9,"Retail_2014":1404.8,"Retail_2013":1365.1,"Retail_2012":1297.9,"Retail_2011":1473.7,"Retail_2010":1713.6,"Retail_2009":1945.8,"Retail_2008":2370,"Retail_2007":2142.2,"Retail_2006":2029.1,"Retail_2005":2146.4,"Retail_2004":2149,"Retail_2003":2022.1},"geometry":{"type":"Point","coordinates":[10.4515,51.1657]}},{"type":"Feature","properties":{"City":"UK","Retail_2017":1310.7,"Retail_2016":1251.1,"Retail_2015":1354,"Retail_2014":1334.6,"Retail_2013":1303.5,"Retail_2012":1325.8,"Retail_2011":1433.7,"Retail_2010":1388.1,"Retail_2009":1730.5,"Retail_2008":2274.9,"Retail_2007":2696.4,"Retail_2006":3051.1,"Retail_2005":3330.4,"Retail_2004":3508.7,"Retail_2003":3215.7},"geometry":{"type":"Point","coordinates":[-3.436,55.3781]}},{"type":"Feature","properties":{"City":"France","Retail_2017":925.1,"Retail_2016":849.5,"Retail_2015":809.1,"Retail_2014":842.8,"Retail_2013":956.2,"Retail_2012":907.6,"Retail_2011":1002.2,"Retail_2010":999.6,"Retail_2009":1157.5,"Retail_2008":1342.5,"Retail_2007":1471,"Retail_2006":1661.7,"Retail_2005":1940.3,"Retail_2004":1979.3,"Retail_2003":2114.7},"geometry":{"type":"Point","coordinates":[1.6751,47.7516]}},{"type":"Feature","properties":{"City":"South Korea","Retail_2017":494.4,"Retail_2016":330.1,"Retail_2015":281.3,"Retail_2014":265.8,"Retail_2013":211.3,"Retail_2012":187.5,"Retail_2011":199.5,"Retail_2010":116.9,"Retail_2009":93.3,"Retail_2008":118.4,"Retail_2007":80.7,"Retail_2006":80.7,"Retail_2005":111.1,"Retail_2004":132.8,"Retail_2003":162.4},"geometry":{"type":"Point","coordinates":[127.7669,35.9078]}},{"type":"Feature","properties":{"City":"Canada","Retail_2017":437.2,"Retail_2016":367.9,"Retail_2015":335.8,"Retail_2014":342.5,"Retail_2013":424.1,"Retail_2012":453.5,"Retail_2011":434,"Retail_2010":343.2,"Retail_2009":401.6,"Retail_2008":530,"Retail_2007":561.8,"Retail_2006":667.8,"Retail_2005":708.3,"Retail_2004":693.8,"Retail_2003":676},"geometry":{"type":"Point","coordinates":[-106.3468,56.1304]}},{"type":"Feature","properties":{"City":"Australia","Retail_2017":412.9,"Retail_2016":357.2,"Retail_2015":342.8,"Retail_2014":376.1,"Retail_2013":430.8,"Retail_2012":507.4,"Retail_2011":475.2,"Retail_2010":408,"Retail_2009":456.2,"Retail_2008":555.3,"Retail_2007":564.8,"Retail_2006":583.6,"Retail_2005":637.7,"Retail_2004":716.7,"Retail_2003":673.8},"geometry":{"type":"Point","coordinates":[133.7751,-25.2744]}},{"type":"Feature","properties":{"City":"Brazil","Retail_2017":295.8,"Retail_2016":229.8,"Retail_2015":247,"Retail_2014":246.5,"Retail_2013":227.9,"Retail_2012":257.2,"Retail_2011":262.6,"Retail_2010":258.7,"Retail_2009":246.9,"Retail_2008":349,"Retail_2007":246.5,"Retail_2006":322.7,"Retail_2005":390.8,"Retail_2004":374.2,"Retail_2003":304.9},"geometry":{"type":"Point","coordinates":[-51.9253,-14.235]}},{"type":"Feature","properties":{"City":"China","Retail_2017":292.3,"Retail_2016":202.2,"Retail_2015":169.7,"Retail_2014":105.2,"Retail_2013":0,"Retail_2012":92.4,"Retail_2011":0,"Retail_2010":23.2,"Retail_2009":28.8,"Retail_2008":57.3,"Retail_2007":56.5,"Retail_2006":70.8,"Retail_2005":119.7,"Retail_2004":211.8,"Retail_2003":198.3},"geometry":{"type":"Point","coordinates":[104.1954,35.8617]}},{"type":"Feature","properties":{"City":"Netherlands","Retail_2017":269.9,"Retail_2016":243.3,"Retail_2015":222.6,"Retail_2014":204.8,"Retail_2013":205.6,"Retail_2012":216.3,"Retail_2011":240.2,"Retail_2010":270.2,"Retail_2009":340.6,"Retail_2008":365.5,"Retail_2007":385,"Retail_2006":383.4,"Retail_2005":423.1,"Retail_2004":507.7,"Retail_2003":498.8},"geometry":{"type":"Point","coordinates":[5.2913,52.1326]}},{"type":"Feature","properties":{"City":"Italy","Retail_2017":247.9,"Retail_2016":263.7,"Retail_2015":265.5,"Retail_2014":235.2,"Retail_2013":238.8,"Retail_2012":217.5,"Retail_2011":239.9,"Retail_2010":275.4,"Retail_2009":293.8,"Retail_2008":427,"Retail_2007":493.3,"Retail_2006":556.9,"Retail_2005":639.8,"Retail_2004":652.5,"Retail_2003":644.6},"geometry":{"type":"Point","coordinates":[12.5674,41.8719]}},{"type":"Feature","properties":{"City":"Spain","Retail_2017":205.8,"Retail_2016":190.8,"Retail_2015":179.2,"Retail_2014":181.1,"Retail_2013":150.7,"Retail_2012":166.6,"Retail_2011":190,"Retail_2010":183.2,"Retail_2009":266.8,"Retail_2008":374.3,"Retail_2007":374.3,"Retail_2006":464.8,"Retail_2005":547.1,"Retail_2004":572.8,"Retail_2003":595.9},"geometry":{"type":"Point","coordinates":[-3.7492,40.4637]}},{"type":"Feature","properties":{"City":"Sweden","Retail_2017":199.5,"Retail_2016":192.4,"Retail_2015":181.9,"Retail_2014":189.4,"Retail_2013":194.2,"Retail_2012":176.7,"Retail_2011":155.3,"Retail_2010":136.8,"Retail_2009":162.3,"Retail_2008":205.1,"Retail_2007":206.1,"Retail_2006":214.5,"Retail_2005":235,"Retail_2004":267.9,"Retail_2003":295},"geometry":{"type":"Point","coordinates":[18.6435,60.1282]}},{"type":"Feature","properties":{"City":"Norway","Retail_2017":139,"Retail_2016":114.1,"Retail_2015":105.9,"Retail_2014":119.9,"Retail_2013":120,"Retail_2012":118.3,"Retail_2011":115.1,"Retail_2010":131.4,"Retail_2009":159.9,"Retail_2008":203,"Retail_2007":224.6,"Retail_2006":219.7,"Retail_2005":249.6,"Retail_2004":273.8,"Retail_2003":255.7},"geometry":{"type":"Point","coordinates":[8.4689,60.472]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "US",
+        "Retail_2017": 5916.1,
+        "Retail_2016": 5318.2,
+        "Retail_2015": 4997.3,
+        "Retail_2014": 4898.3,
+        "Retail_2013": 4473.5,
+        "Retail_2012": 4481.8,
+        "Retail_2011": 4372.9,
+        "Retail_2010": 3635.2,
+        "Retail_2009": 4562,
+        "Retail_2008": 5977.4,
+        "Retail_2007": 7985.6,
+        "Retail_2006": 9651.4,
+        "Retail_2005": 11195,
+        "Retail_2004": 12153.4,
+        "Retail_2003": 11847.9
+      },
+      "geometry": { "type": "Point", "coordinates": [-95.7129, 37.0902] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Japan",
+        "Retail_2017": 2727.5,
+        "Retail_2016": 2745.9,
+        "Retail_2015": 2446.7,
+        "Retail_2014": 2627.9,
+        "Retail_2013": 3012,
+        "Retail_2012": 4422,
+        "Retail_2011": 4087.7,
+        "Retail_2010": 4096.9,
+        "Retail_2009": 4244.5,
+        "Retail_2008": 5171.1,
+        "Retail_2007": 4174.5,
+        "Retail_2006": 4495.2,
+        "Retail_2005": 4883.5,
+        "Retail_2004": 5167.8,
+        "Retail_2003": 4909.7
+      },
+      "geometry": { "type": "Point", "coordinates": [138.2529, 36.2048] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Germany",
+        "Retail_2017": 1323.1,
+        "Retail_2016": 1212,
+        "Retail_2015": 1309.9,
+        "Retail_2014": 1404.8,
+        "Retail_2013": 1365.1,
+        "Retail_2012": 1297.9,
+        "Retail_2011": 1473.7,
+        "Retail_2010": 1713.6,
+        "Retail_2009": 1945.8,
+        "Retail_2008": 2370,
+        "Retail_2007": 2142.2,
+        "Retail_2006": 2029.1,
+        "Retail_2005": 2146.4,
+        "Retail_2004": 2149,
+        "Retail_2003": 2022.1
+      },
+      "geometry": { "type": "Point", "coordinates": [10.4515, 51.1657] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "UK",
+        "Retail_2017": 1310.7,
+        "Retail_2016": 1251.1,
+        "Retail_2015": 1354,
+        "Retail_2014": 1334.6,
+        "Retail_2013": 1303.5,
+        "Retail_2012": 1325.8,
+        "Retail_2011": 1433.7,
+        "Retail_2010": 1388.1,
+        "Retail_2009": 1730.5,
+        "Retail_2008": 2274.9,
+        "Retail_2007": 2696.4,
+        "Retail_2006": 3051.1,
+        "Retail_2005": 3330.4,
+        "Retail_2004": 3508.7,
+        "Retail_2003": 3215.7
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.436, 55.3781] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "France",
+        "Retail_2017": 925.1,
+        "Retail_2016": 849.5,
+        "Retail_2015": 809.1,
+        "Retail_2014": 842.8,
+        "Retail_2013": 956.2,
+        "Retail_2012": 907.6,
+        "Retail_2011": 1002.2,
+        "Retail_2010": 999.6,
+        "Retail_2009": 1157.5,
+        "Retail_2008": 1342.5,
+        "Retail_2007": 1471,
+        "Retail_2006": 1661.7,
+        "Retail_2005": 1940.3,
+        "Retail_2004": 1979.3,
+        "Retail_2003": 2114.7
+      },
+      "geometry": { "type": "Point", "coordinates": [1.6751, 47.7516] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "South Korea",
+        "Retail_2017": 494.4,
+        "Retail_2016": 330.1,
+        "Retail_2015": 281.3,
+        "Retail_2014": 265.8,
+        "Retail_2013": 211.3,
+        "Retail_2012": 187.5,
+        "Retail_2011": 199.5,
+        "Retail_2010": 116.9,
+        "Retail_2009": 93.3,
+        "Retail_2008": 118.4,
+        "Retail_2007": 80.7,
+        "Retail_2006": 80.7,
+        "Retail_2005": 111.1,
+        "Retail_2004": 132.8,
+        "Retail_2003": 162.4
+      },
+      "geometry": { "type": "Point", "coordinates": [127.7669, 35.9078] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Canada",
+        "Retail_2017": 437.2,
+        "Retail_2016": 367.9,
+        "Retail_2015": 335.8,
+        "Retail_2014": 342.5,
+        "Retail_2013": 424.1,
+        "Retail_2012": 453.5,
+        "Retail_2011": 434,
+        "Retail_2010": 343.2,
+        "Retail_2009": 401.6,
+        "Retail_2008": 530,
+        "Retail_2007": 561.8,
+        "Retail_2006": 667.8,
+        "Retail_2005": 708.3,
+        "Retail_2004": 693.8,
+        "Retail_2003": 676
+      },
+      "geometry": { "type": "Point", "coordinates": [-106.3468, 56.1304] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Australia",
+        "Retail_2017": 412.9,
+        "Retail_2016": 357.2,
+        "Retail_2015": 342.8,
+        "Retail_2014": 376.1,
+        "Retail_2013": 430.8,
+        "Retail_2012": 507.4,
+        "Retail_2011": 475.2,
+        "Retail_2010": 408,
+        "Retail_2009": 456.2,
+        "Retail_2008": 555.3,
+        "Retail_2007": 564.8,
+        "Retail_2006": 583.6,
+        "Retail_2005": 637.7,
+        "Retail_2004": 716.7,
+        "Retail_2003": 673.8
+      },
+      "geometry": { "type": "Point", "coordinates": [133.7751, -25.2744] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Brazil",
+        "Retail_2017": 295.8,
+        "Retail_2016": 229.8,
+        "Retail_2015": 247,
+        "Retail_2014": 246.5,
+        "Retail_2013": 227.9,
+        "Retail_2012": 257.2,
+        "Retail_2011": 262.6,
+        "Retail_2010": 258.7,
+        "Retail_2009": 246.9,
+        "Retail_2008": 349,
+        "Retail_2007": 246.5,
+        "Retail_2006": 322.7,
+        "Retail_2005": 390.8,
+        "Retail_2004": 374.2,
+        "Retail_2003": 304.9
+      },
+      "geometry": { "type": "Point", "coordinates": [-51.9253, -14.235] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "China",
+        "Retail_2017": 292.3,
+        "Retail_2016": 202.2,
+        "Retail_2015": 169.7,
+        "Retail_2014": 105.2,
+        "Retail_2013": 0,
+        "Retail_2012": 92.4,
+        "Retail_2011": 0,
+        "Retail_2010": 23.2,
+        "Retail_2009": 28.8,
+        "Retail_2008": 57.3,
+        "Retail_2007": 56.5,
+        "Retail_2006": 70.8,
+        "Retail_2005": 119.7,
+        "Retail_2004": 211.8,
+        "Retail_2003": 198.3
+      },
+      "geometry": { "type": "Point", "coordinates": [104.1954, 35.8617] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Netherlands",
+        "Retail_2017": 269.9,
+        "Retail_2016": 243.3,
+        "Retail_2015": 222.6,
+        "Retail_2014": 204.8,
+        "Retail_2013": 205.6,
+        "Retail_2012": 216.3,
+        "Retail_2011": 240.2,
+        "Retail_2010": 270.2,
+        "Retail_2009": 340.6,
+        "Retail_2008": 365.5,
+        "Retail_2007": 385,
+        "Retail_2006": 383.4,
+        "Retail_2005": 423.1,
+        "Retail_2004": 507.7,
+        "Retail_2003": 498.8
+      },
+      "geometry": { "type": "Point", "coordinates": [5.2913, 52.1326] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Italy",
+        "Retail_2017": 247.9,
+        "Retail_2016": 263.7,
+        "Retail_2015": 265.5,
+        "Retail_2014": 235.2,
+        "Retail_2013": 238.8,
+        "Retail_2012": 217.5,
+        "Retail_2011": 239.9,
+        "Retail_2010": 275.4,
+        "Retail_2009": 293.8,
+        "Retail_2008": 427,
+        "Retail_2007": 493.3,
+        "Retail_2006": 556.9,
+        "Retail_2005": 639.8,
+        "Retail_2004": 652.5,
+        "Retail_2003": 644.6
+      },
+      "geometry": { "type": "Point", "coordinates": [12.5674, 41.8719] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Spain",
+        "Retail_2017": 205.8,
+        "Retail_2016": 190.8,
+        "Retail_2015": 179.2,
+        "Retail_2014": 181.1,
+        "Retail_2013": 150.7,
+        "Retail_2012": 166.6,
+        "Retail_2011": 190,
+        "Retail_2010": 183.2,
+        "Retail_2009": 266.8,
+        "Retail_2008": 374.3,
+        "Retail_2007": 374.3,
+        "Retail_2006": 464.8,
+        "Retail_2005": 547.1,
+        "Retail_2004": 572.8,
+        "Retail_2003": 595.9
+      },
+      "geometry": { "type": "Point", "coordinates": [-3.7492, 40.4637] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Sweden",
+        "Retail_2017": 199.5,
+        "Retail_2016": 192.4,
+        "Retail_2015": 181.9,
+        "Retail_2014": 189.4,
+        "Retail_2013": 194.2,
+        "Retail_2012": 176.7,
+        "Retail_2011": 155.3,
+        "Retail_2010": 136.8,
+        "Retail_2009": 162.3,
+        "Retail_2008": 205.1,
+        "Retail_2007": 206.1,
+        "Retail_2006": 214.5,
+        "Retail_2005": 235,
+        "Retail_2004": 267.9,
+        "Retail_2003": 295
+      },
+      "geometry": { "type": "Point", "coordinates": [18.6435, 60.1282] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Norway",
+        "Retail_2017": 139,
+        "Retail_2016": 114.1,
+        "Retail_2015": 105.9,
+        "Retail_2014": 119.9,
+        "Retail_2013": 120,
+        "Retail_2012": 118.3,
+        "Retail_2011": 115.1,
+        "Retail_2010": 131.4,
+        "Retail_2009": 159.9,
+        "Retail_2008": 203,
+        "Retail_2007": 224.6,
+        "Retail_2006": 219.7,
+        "Retail_2005": 249.6,
+        "Retail_2004": 273.8,
+        "Retail_2003": 255.7
+      },
+      "geometry": { "type": "Point", "coordinates": [8.4689, 60.472] }
+    }
+  ]
+}
